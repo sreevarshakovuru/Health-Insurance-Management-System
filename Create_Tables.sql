@@ -8,7 +8,7 @@ CREATE TABLE Clients (
     LastName NVARCHAR(50),
     DateOfBirth DATE,
     Address NVARCHAR(200),
-    PhoneNumber NVARCHAR(15),
+    PhoneNumber NVARCHAR(12),
     Email NVARCHAR(100)
 );
 
