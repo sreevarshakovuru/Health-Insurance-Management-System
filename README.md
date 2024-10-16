@@ -16,4 +16,4 @@ This project is a web-based health insurance management system that uses SQL Ser
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/yourusername/HealthInsuranceManagementSystem.git
+   git clone https://github.com/sreevarshakovuru/Health-Insurance-Management-System.git
