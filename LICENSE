@@ -1,0 +1,10 @@
+
+---
+
+### 6. **Push to GitHub**
+   - After setting everything up locally, push your project to GitHub.
+
+```bash
+git add .
+git commit -m "Initial commit with database setup and .NET project"
+git push origin main
